@@ -1,0 +1,38 @@
+{
+    "Bought": {
+        "STKA 0": {
+            "close": 12.1212,
+            "high": 13.1313,
+            "low": 11.1111,
+            "name": "STKA",
+            "opening": 12.0011,
+            "volume": 56265.0
+        },
+        "STKA 1": {
+            "close": 12.1212,
+            "high": 13.1313,
+            "low": 11.1111,
+            "name": "STKA",
+            "opening": 12.0011,
+            "volume": 56265.0
+        }
+    },
+    "Owned": {},
+    "Sold": {
+        "STKA 0": {
+            "close": 12.1212,
+            "high": 13.1313,
+            "low": 11.1111,
+            "name": "STKA",
+            "opening": 12.0011,
+            "volume": 56265.0
+        },"STKA 1": {
+            "close": 12.1212,
+            "high": 13.1313,
+            "low": 11.1111,
+            "name": "STKA",
+            "opening": 12.0011,
+            "volume": 56265.0
+        }
+    }
+}
